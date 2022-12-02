@@ -1,0 +1,25 @@
+{
+  "name": "balansekunst",
+  "version": "1.0.0",
+  "description": "Flytter penger mellom egne kontoer basert på enkle kriterier, helt av seg selv.",
+  "main": "dist/index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Halvor Holsten Strand",
+  "license": "MIT",
+  "dependencies": {
+    "argparse": "^1.0.10",
+    "config": "^3.2.2"
+  },
+  "devDependencies": {
+    "@types/argparse": "^1.0.36",
+    "@types/config": "0.0.34",
+    "@typescript-eslint/eslint-plugin": "^2.3.2",
+    "@typescript-eslint/parser": "^2.3.2",
+    "eslint": "^6.8.0",
+    "ts-node": "^8.4.1",
+    "typescript": "^3.6.3"
+  }
+}
